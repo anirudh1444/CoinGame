@@ -1,1 +1,1 @@
-# Puzzles
+# Coin Game
